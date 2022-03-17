@@ -1,10 +1,10 @@
 [
   {
-    "q": "q1",
-    "a": "q2"
+    "q": "When will <sync>Sync</sync> be released?",
+    "a": "There is no set release date for <sync>Sync</sync> yet!"
   },
   {
-    "q": "q2",
-    "a": "a2"
+    "q": "Why is <sync>Sync</sync> special?",
+    "a": "What makes <sync>Sync</sync> special is it allows its users to interact with social media platforms trough Discord, integrating them seamlessly and bringing their features to the platform."
   }
 ]
